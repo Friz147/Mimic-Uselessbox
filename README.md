@@ -1,4 +1,4 @@
-# 🐙 Useless Box Mimic – (Group 15)
+# Useless Box Mimic – (Group 15)
 
 A playful, interactive "useless box" that looks and behaves like a little dungeon mimic. Built for the *Physical Computing* course at Politecnico di Milano, this project invites curiosity, encourages interaction, and rewards persistence with unexpected (and often grumpy) behavior.
 
@@ -28,13 +28,13 @@ The mimic box is designed to be simple to build, fun to play with, and easy to m
 | Touch Sensor     | 1 (opt.) | Optional, used for additional behavioral triggers        |
 | 9V Battery       | 1 (opt.) | Optional power source for standalone operation           |
 
-## 🎥 Demo
+## Demo
 
 *Coming soon*
 
 [![Mimic_demo]()]
 
-## 🛠️ How It Works
+## How It Works
 
 1. The user presses a switch on the box.
 2. The mimic opens slightly and shows hesitation (shy behavior).
@@ -44,6 +44,8 @@ The mimic box is designed to be simple to build, fun to play with, and easy to m
 
 All behaviors are handled in a single Arduino sketch (`Group_15.ino`) using basic timing, state transitions, and servo movements.
 
-The project files will be published in the following days.
+## Notes
+
+The project 1.0 version files will be published in the following days. 
 
 
