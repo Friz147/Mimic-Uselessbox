@@ -2,13 +2,13 @@
 
 A playful, interactive "useless box" that looks and behaves like a little dungeon mimic. Built for the *Physical Computing* course at Politecnico di Milano, this project invites curiosity, encourages interaction, and rewards persistence with unexpected (and often grumpy) behavior.
 
-## 🎯 Concept
+## Concept
 
 The idea was to create a funny and engaging object that feels alive. At first, the box behaves shyly—retracting its limbs with hesitation—but as you keep interacting, it grows annoyed, and eventually angry. The three servo-powered arms act as expressive limbs, reacting to the user's insistence with gestures and timing that suggest personality.
 
 The mimic box is designed to be simple to build, fun to play with, and easy to modify. You don’t need advanced electronics skills to get started—just curiosity and a little patience!
 
-## 🧠 Features
+## Features
 
 - Three distinct interaction phases: **shy**, **annoyed**, and **angry**
 - Multiple physical switches trigger the box’s behaviors
@@ -16,7 +16,7 @@ The mimic box is designed to be simple to build, fun to play with, and easy to m
 - Modular, 3D-printable components
 - Arduino-compatible and beginner-friendly
 
-## 🧰 Components Used
+## Components Used
 
 | Component        | Quantity | Notes                                                   |
 |------------------|----------|----------------------------------------------------------|
@@ -43,5 +43,7 @@ The mimic box is designed to be simple to build, fun to play with, and easy to m
 5. LED feedback changes according to the emotional state.
 
 All behaviors are handled in a single Arduino sketch (`Group_15.ino`) using basic timing, state transitions, and servo movements.
+
+The project files will be published in the following days.
 
 
